@@ -11,7 +11,7 @@
 
 # 💫 About Me:
 
-<p align="left">I'm Prashant Singh <br><br>- 🔭 I’m currently working on Web Development.<br>- 📚 I'm currently learning Java (my domain lang.) <br>- ⚡</p> 
+<p align="left">I'm Prashant Singh <br><br>- 🔭 Learning Web Development.<br>- 📚 Learning Java (my domain lang.) <br>- ⚡</p> 
 
 
 ## 🌐 Socials:
